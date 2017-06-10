@@ -6,7 +6,7 @@ namespace Accounting.Controllers
     {
         public IHttpActionResult GetProduct()
         {
-            return Ok(new { test = "test data" });
+            return Ok(new { test = "test my data" });
         }
     }
 }
